@@ -7,6 +7,10 @@ En los grupos de investigación de las diferentes universidades se desarrollan d
 **Johan Ramirez**
 [Contacto](https://github.com/johanramirez91)
 
+**Javier Delgado**
+Soy una persona que siempre he tenido gusto por la tecnologia y a través de Mision TIC tengo la oportunidad de tener formación en este campo,
+aunque no cuento con mucha experiencia en este mundo de la programación, tengo la disposición para seguir aprendiendo y mejorando. Soy de la ciudad de Ibagué en el departamento del Tolima.
+
 ### ¿Cómo usar este proyecto?
 
 Paso 1: clonar el proyecto
