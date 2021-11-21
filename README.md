@@ -15,6 +15,10 @@ aunque no cuento con mucha experiencia en este mundo de la programación, tengo 
 [Contacto](https://github.com/ariascosb)
 Ingeniero de la ciudad de cali, apasionado por la ciencia y la tecnologia. Enfocado en las matematicas aplicadas y la programacion. 
 
+**Lilia Roman**
+
+Soy una mujer de cucuta, administradora de empresas. Me inicie en la tecnologia y software con este programa de Mision Tic, espero poder progresar signioficativamente y encaminarme a la ciencia de datos.
+
 ### ¿Cómo usar este proyecto?
 
 Paso 1: clonar el proyecto
